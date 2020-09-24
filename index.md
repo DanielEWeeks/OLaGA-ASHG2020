@@ -7,7 +7,9 @@
 
 ---
 
-## Poster 2534 - Samoan genome-wide association studies identify novel associations with blood pressure phenotypes.
+## Poster 2534 
+
+**Samoan genome-wide association studies identify novel associations with blood pressure phenotypes**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/#!/9070/presentation/3592)
 
