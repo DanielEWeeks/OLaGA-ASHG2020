@@ -2,7 +2,7 @@ American Society of Human Genetics 2020
 
 Samoan Obesity, Lifestyle and Genetic Adaptations Study Group (OLaGA)
 
-Link: [](https://publichealth.yale.edu/olaga/)
+[Link](https://publichealth.yale.edu/olaga/)
 
 
 
