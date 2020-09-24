@@ -7,7 +7,7 @@
 
 ---
 
-## Poster 2534 
+## Poster 2534
 
 **Samoan genome-wide association studies identify novel associations with blood pressure phenotypes**
 
@@ -27,7 +27,7 @@ Contact: Ryan Minster via [Twitter](https://twitter.com/pittjryan) @pittjryan #O
  
 ---
 
-## Poster 3700 
+## Poster 3700
 
 **Genome-wide association study of high vs low risk of polycystic ovarian syndrome in Samoan women**
 
@@ -37,7 +37,7 @@ Contact: Zeynep Erdogan-Yildirim via [Twitter](https://twitter.com/ZeynepEYildir
  
 ---
 
-## Poster 3845 
+## Poster 3845
 
 **Genome-wide association study of telomere length in individuals of Samoan ancestry**
 
@@ -47,7 +47,7 @@ Contact: Mohan Krishnan
  
 ---
 
-## Poster 3961 
+## Poster 3961
 
 **The missense variant, rs373863828, in CREBRF plays a role in longitudinal changes in BMI across adulthood**
 
@@ -57,7 +57,7 @@ Contact: Haoyi Fu
  
 ---
 
-## Poster 3772 
+## Poster 3772
 
 **Association of a missense variant in CREBRF with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort**
 
