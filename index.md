@@ -15,7 +15,9 @@ Contact: Jenna Carlson via [Twitter](https://twitter.com/jenccarlson) @jenccarls
 
 ---
 
-## Poster 2682 - Genome-wide association study of height in Samoan individuals
+## Poster 2682
+
+**Genome-wide association study of height in Samoan individuals**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/2148)
 
@@ -23,7 +25,9 @@ Contact: Ryan Minster via [Twitter](https://twitter.com/pittjryan) @pittjryan #O
  
 ---
 
-## Poster 3700 - Genome-wide association study of high vs low risk of polycystic ovarian syndrome in Samoan women
+## Poster 3700 
+
+**Genome-wide association study of high vs low risk of polycystic ovarian syndrome in Samoan women**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3066)
 
@@ -31,7 +35,9 @@ Contact: Zeynep Erdogan-Yildirim via [Twitter](https://twitter.com/ZeynepEYildir
  
 ---
 
-## Poster 3845 - Genome-wide association study of telomere length in individuals of Samoan ancestry
+## Poster 3845 
+
+**Genome-wide association study of telomere length in individuals of Samoan ancestry**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3213)
 
@@ -39,7 +45,9 @@ Contact: Mohan Krishnan
  
 ---
 
-## Poster 3961 - The missense variant, rs373863828, in CREBRF plays a role in longitudinal changes in BMI across adulthood.
+## Poster 3961 
+
+**The missense variant, rs373863828, in CREBRF plays a role in longitudinal changes in BMI across adulthood**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3250)
 
@@ -47,7 +55,9 @@ Contact: Haoyi Fu
  
 ---
 
-## Poster 3772 - Association of a missense variant in CREBRF with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort.
+## Poster 3772 
+
+**Association of a missense variant in CREBRF with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3220)
 
