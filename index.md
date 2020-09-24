@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# American Society of Human Genetics Meeting 2020
 
-You can use the [editor on GitHub](https://github.com/DanielEWeeks/OLaGA-ASHG2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Samoan Obesity, Lifestyle and Genetic Adaptations Study Group (OLaGA)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Link: https://publichealth.yale.edu/olaga/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Poster 2534 - Samoan genome-wide association studies identify novel associations with blood pressure phenotypes.
 
-- Bulleted
-- List
+Link: https://www.abstractsonline.com/pp8/#!/9070/presentation/3592
 
-1. Numbered
-2. List
+Contact: Jenna Carlson via Twitter @jenccarlson  #OLaGA #ASHG2020
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Poster 2682 - Genome-wide association study of height in Samoan individuals
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Link: https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/2148
 
-### Jekyll Themes
+Contact: Ryan Minster via Twitter @pittjryan #OLaGA #ASHG2020
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielEWeeks/OLaGA-ASHG2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+# Poster 3700 - Genome-wide association study of high vs low risk of polycystic ovarian syndrome in Samoan women
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link: https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3066
+
+Contact: Zeynep Erdogan-Yildirim via Twitter @ZeynepEYildirim #OLaGA #ASHG2020
+ 
+
+
+# Poster 3845 - Genome-wide association study of telomere length in individuals of Samoan ancestry
+
+Link: https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3213
+
+Contact: Mohan Krishnan
+ 
+
+
+# Poster 3961 - The missense variant, rs373863828, in CREBRF plays a role in longitudinal changes in BMI across adulthood.
+
+Link: https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3250
+
+Contact: Haoyi Fu
+ 
+
+
+# Poster 3772 - Association of a missense variant in CREBRF with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort.
+
+Link: https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3220
+
+Contact: Emily Russell via Twitter @EmilyMRussell #OLaGA #ASHG2020
+  
+
+
