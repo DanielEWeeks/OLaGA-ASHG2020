@@ -53,7 +53,7 @@ Contact: Mohan Krishnan
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3250)
 
-Contact: Haoyi Fu
+Contact: Haoyi Fu via [Twitter](https://twitter.com/HaoyiFu) @HaoyiFu #OLaGA #ASHG2020
  
 ---
 
