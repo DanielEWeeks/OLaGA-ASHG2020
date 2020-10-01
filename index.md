@@ -4,6 +4,7 @@
 
 [https://publichealth.yale.edu/olaga/](https://publichealth.yale.edu/olaga/)
 
+[OLaGA Facebook page](https://www.facebook.com/YaleOlaga/)
 
 ---
 
