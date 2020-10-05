@@ -44,7 +44,7 @@ Contact: Zeynep Erdogan-Yildirim via [Twitter](https://twitter.com/ZeynepEYildir
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3213)
 
-Contact: Mohan Krishnan
+Contact: Mohanraj Krishnan via [Twitter](https://twitter.com/MKrishnan) @MKrishnan #OLaGA #ASHG2020
  
 ---
 
