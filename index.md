@@ -6,6 +6,8 @@
 
 [OLaGA Facebook page](https://www.facebook.com/YaleOlaga/)
 
+[Selected Publications from our group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
+
 ---
 
 ## Poster 2534
