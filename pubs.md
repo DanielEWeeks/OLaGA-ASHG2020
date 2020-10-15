@@ -1,6 +1,6 @@
 # American Society of Human Genetics 2020
 
-[Posters presented by our group](https://danieleweeks.github.io/OLaGA-ASHG2020/)
+[Posters by our group](https://danieleweeks.github.io/OLaGA-ASHG2020/)
 
 # Selected Publications
 
