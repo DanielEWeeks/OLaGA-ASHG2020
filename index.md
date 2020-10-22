@@ -16,7 +16,7 @@ At the University of Pittsburgh Graduate School of Public Health and Schools of 
 
 **‘Aiseā mātou te su‘esu‘eina ai kenera?**
 
-‘O le su‘esu‘ega o kenera pē mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o lātou uiga. I a mātou su‘esu‘ega, ‘o lo‘o mātou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pē ‘aiseā e māfua ai ona tino puta isi tagata ‘ae lē maua ai isi. ‘O le soifuaga mālōlōina e tāua tele i le puipuiga ‘o le tino puta, peita‘i ‘o kenera e fesoasoani tele lea i lo mātou mālamalama pé ‘aiseā e tino puta ai isi tagata.
+‘O le su‘esu‘ega o kenera pē mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o lātou uiga. I a mātou su‘esu‘ega, ‘o lo‘o mātou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pē ‘aiseā e māfua ai ona tino puta isi tagata ‘ae lē maua ai isi. ‘O le soifuaga mālōlōina e tāua tele i le puipuiga ‘o le tino puta, peita‘i ‘o kenera e fesoasoani tele lea i lo mātou mālamalama pē ‘aiseā e tino puta ai isi tagata.
 
 <!-- Why are we studying genetics? -->
 
