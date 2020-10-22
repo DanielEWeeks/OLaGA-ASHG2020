@@ -30,7 +30,7 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
     See selected publications from OLaGA in the *International Journal of Obesity*, *Nature Genetics*, the *American Journal of Human Biology*, the *Journal of Human Genetics* etc.
 
-For more information about our team, our research and our community engagement, you are welcome to contact us at olaga@pitt.edu.
+For more information about our team, our research and our community engagement, you are welcome to contact us at [olaga@pitt.edu](mailto:olaga@pitt.edu).
 
 ![alt text here](Unknown.jpeg)
 
