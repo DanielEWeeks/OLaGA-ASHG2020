@@ -16,9 +16,9 @@ At the University of Pittsburgh Graduate School of Public Health and Schools of 
 
 Our hope is that this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
 * translation of improved understanding of the underlying biology into interventions;
-* through the identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
-* through research capacity building within Samoan communities; and
-* through outreach, education, empowerment and collaboration with the community about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
+* the identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
+* research capacity building within Samoan communities; and
+* outreach, education, empowerment and collaboration with the communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
 
 **Additional Information**
 
