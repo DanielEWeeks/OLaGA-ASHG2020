@@ -38,9 +38,9 @@ For more information about our team, our research and our community engagement, 
 
 |<!-- -->|<!-- -->|
 |:-:|:-:|
-|<img src="pitt.jpeg" width="400">|<img src="medschool.png" width="400">|
+|<img src="opening.jpeg" width="400">|<img src="medschool.png" width="400">|
 |Ministry of Health Lab Opening<br>Moto‘otua, Apia, Samoa|Medical Student Education<br>National University of Samoa, Apia, Samoa|
-|<img src="opening.jpg" width="400">|<img src="twoyears.jpg" width="400">|
+|<img src="pitt.jpg" width="400">|<img src="twoyears.jpg" width="400">|
 |Research Meeting<br>Pittsburgh, Pennsylvania|2nd Anniversary of Ministry of Health Lab<br>Moto‘otua, Apia, Samoa |
 
 ---
