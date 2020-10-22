@@ -2,7 +2,7 @@
 
 ---
 
-In Samoan, *olaga* (pronounced *oh-longa*) means *life.*
+**In Samoan, *ōlaga* (pronounced /ˈoːlaŋa/) means *life.* **
 
 The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course approach to understand the origins of obesity among Samoans and other Pacific Islanders and focuses on developing culturally relevant interventions to reduce the burden of obesity and obesity-related conditions.
 
@@ -14,9 +14,9 @@ Goals of the Research Group
 
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institution Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
 
-**‘Aiseá mátou te su‘esu‘eina ai kenera?**
+**‘Aiseā mātou te su‘esu‘eina ai kenera?**
 
-‘O le su‘esu‘ega o kenera pé mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o látou uiga. I a mátou su‘esu‘ega, ‘o lo‘o mátou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pé ‘aiseá e máfua ai ona tino puta isi tagata ‘ae lé maua ai isi. ‘O le soifuaga málólóina e táua tele i le puipuiga ‘o le tino puta, peita‘i ‘o kenera e fesoasoani tele lea i lo mátou málamalama pé ‘aiseá e tino puta ai isi tagata.
+‘O le su‘esu‘ega o kenera pē mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o lātou uiga. I a mātou su‘esu‘ega, ‘o lo‘o mātou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pē ‘aiseā e māfua ai ona tino puta isi tagata ‘ae lē maua ai isi. ‘O le soifuaga mālōlōina e tāua tele i le puipuiga ‘o le tino puta, peita‘i ‘o kenera e fesoasoani tele lea i lo mātou mālamalama pé ‘aiseā e tino puta ai isi tagata.
 
 <!-- Why are we studying genetics? -->
 
