@@ -36,9 +36,9 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at [olaga@pitt.edu](mailto:olaga@pitt.edu).
 
-|<img src="Unknown.jpeg" height="400">|<img src="medschool.png" height="400">        
+|<img src="Unknown.jpeg" width="400">|<img src="medschool.png" width="400">        
 |:-----------------------:|:-------:
-|<img src="opening.jpg" height="400">| <img src="twoyears.jpg" height="400"> 
+|<img src="opening.jpg" width="400">| <img src="twoyears.jpg" width="400"> 
 
 
 ---
