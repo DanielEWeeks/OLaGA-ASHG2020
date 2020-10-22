@@ -36,10 +36,10 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at [olaga@pitt.edu](mailto:olaga@pitt.edu).
 
------------------------------------------------------------------------------------------------------------------------
-|![Meeting of researchers in Pittsburgh](Unknown.jpeg)|![Medical student education in Apia](medschool.png)            |
-|![Ministry of Health Lab opening](opening.jpg)       |![Two year anniversary of Ministry of Health Lab](twoyears.jpg)|
------------------------------------------------------------------------------------------------------------------------
+|<img src="Unknown.jpeg" height="400">|<img src="medschool.png" height="400">        
+|:-----------------------:|:-------:
+|<img src="opening.jpg" height="400">| <img src="twoyears.jpg" height="400"> 
+
 
 ---
 
