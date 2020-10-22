@@ -1,5 +1,3 @@
-# American Society of Human Genetics 2020
-
 # Samoan Obesity, Lifestyle and Genetic Adaptations Study Group (OLaGA)
 
 In Sāmoan, *ōlaga* (pronounced ˈoːlaŋa) means *life.*
