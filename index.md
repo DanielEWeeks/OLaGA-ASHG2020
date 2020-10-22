@@ -34,7 +34,7 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
     Visit the Yale OLaGA page for more information about the variety of studies being conducted in Samoa and American Samoa beyond the studies with a genetic focus.
 
-* [OLaGA Facebook page](https://www.facebook.com/YaleOlaga/)
+* [OLaGA on Facebook](https://www.facebook.com/YaleOlaga/)
 
     Visit the OLaGA Facebook page to aspects of our grassroots outreach among the communities in Samoa and American Samoa.
 
