@@ -1,6 +1,8 @@
 # Samoan Obesity, Lifestyle and Genetic Adaptations Study Group (OLaGA)
 
-In Samoan, *olaga* (pronounced oh-longa) means *life.*
+---
+
+In Samoan, *olaga* (pronounced *oh-longa*) means *life.*
 
 The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course approach to understand the origins of obesity among Samoans and other Pacific Islanders and focuses on developing culturally relevant interventions to reduce the burden of obesity and obesity-related conditions.
 
@@ -80,7 +82,7 @@ Contact: Mohanraj Krishnan via [Twitter](https://twitter.com/MKrishnan) @MKrishn
 
 ## Poster 3961
 
-**The missense variant, rs373863828, in CREBRF plays a role in longitudinal changes in BMI across adulthood**
+**The missense variant, rs373863828, in *CREBRF* plays a role in longitudinal changes in BMI across adulthood**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3250)
 
@@ -90,7 +92,7 @@ Contact: Haoyi Fu via [Twitter](https://twitter.com/HaoyiFu) @HaoyiFu #OLaGA #AS
 
 ## Poster 3772
 
-**Association of a missense variant in CREBRF with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort**
+**Association of a missense variant in *CREBRF* with type 2 diabetes and fasting glucose in a longitudinal Samoan cohort**
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3220)
 
