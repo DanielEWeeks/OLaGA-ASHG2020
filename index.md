@@ -2,11 +2,31 @@
 
 # Samoan Obesity, Lifestyle and Genetic Adaptations Study Group (OLaGA)
 
-[https://publichealth.yale.edu/olaga/](https://publichealth.yale.edu/olaga/)
+In Sāmoan, *ōlaga* (pronounced ˈoːlaŋa) means *life.*
 
-[OLaGA Facebook page](https://www.facebook.com/YaleOlaga/)
+The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course approach to understand the origins of obesity among Samoans and other Pacific Islanders and focuses on developing culturally relevant interventions to reduce the burden of obesity and obesity-related conditions.
 
-[Selected Publications from our Group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
+Goals of the Research Group
+
+* To conduct epidemiologic research that will serve as the evidence base for developing interventions to prevent obesity
+* To develop and rigorously test novel intervention approaches targeted at early life prevention of obesity and associated cardiometabolic disease
+* To enhance community partnerships for local and regional capacity building
+
+Our team of genetic epidemiologists, statistical geneticists, biostatisticians and molecular biologists at the University of Pittsburgh collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institution Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
+
+**Additional Information**
+
+* [OLaGA @ Yale](https://publichealth.yale.edu/olaga/)
+
+    Visit the Yale OLaGA page for more information about the variety of studies being conducted in Samoa and American Samoa beyond the studies with a genetic focus.
+
+* [OLaGA Facebook page](https://www.facebook.com/YaleOlaga/)
+
+    Visit the OLaGA Facebook page to aspects of our grassroots outreach among the communities in Samoa and American Samoa.
+
+* [Selected Publications from our Group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
+
+    See selected publications from OLaGA in the *International Journal of Obesity*, *Nature Genetics*, the *American Journal of Human Biology*, the *Journal of Human Genetics* etc.
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at olaga@pitt.edu.
 
