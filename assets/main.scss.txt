@@ -1,23 +1,21 @@
 ---
 ---
 
-/* Add your @font-face setting the url path */
-@font-face {
-font-family:“Open Sans”;
-src: url("…/assets/fonts/OpenSans-Regular-webfont.eot");
-src: url("…/assets/fonts/OpenSans-Regular-webfont.eot?#iefix") format(‘embedded-opentype’),
-url("…/assets/fonts/OpenSans-Regular-webfont.woff") format(‘woff’),
-url("…/assets/fonts/OpenSans-Regular-webfont.tff") format(‘truetype’),
-url("…/assets/fonts/OpenSans-Regular-webfont.svg#glyphicons-halflingsregular’") format(‘svg’);
-}
+// Google Fonts
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 
-/*
-Set the sass variables. You only need the $base-font-family here but in case you want to adjust sizes etc…
-For reference, in the Minima theme gem folder, these are in /_sass/minima.scss
-*/
-$base-font-family: “Open Sans” !default;
-$base-font-size: 16px !default;
-$base-font-weight: 400 !default;
+// Font Variables
+$open-sans: 'Open Sans', sans-serif;
+
+// Styles
+body {
+  font-family: $body-font;
+  font-weight: normal;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font;
+  font-weight: normal;
+}
 
 /* import the theme css */
 @import “{{ site.theme }}”;
