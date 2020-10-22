@@ -36,11 +36,12 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at [olaga@pitt.edu](mailto:olaga@pitt.edu).
 
-|<img src="pitt.jpeg" width="400">|<img src="medschool.png" width="400">|
+|<!-- -->|<!-- -->|
 |:-:|:-:|
-|Ministry of Health Lab Opening, Moto‘otua, Apia, Samoa|Medical Student Education, National University of Samoa, Apia, Samoa|
+|<img src="pitt.jpeg" width="400">|<img src="medschool.png" width="400">|
+|Ministry of Health Lab Opening<br>Moto‘otua, Apia, Samoa|Medical Student Education<br>National University of Samoa, Apia, Samoa|
 |<img src="opening.jpg" width="400">|<img src="twoyears.jpg" width="400">|
-|Research Meeting, Pittsburgh, USA|2nd Anniversary of Ministry of Health Lab, Moto‘otua, Apia, Samoa |
+|Research Meeting<br>Pittsburgh, Pennsylvania|2nd Anniversary of Ministry of Health Lab<br>Moto‘otua, Apia, Samoa |
 
 ---
 
