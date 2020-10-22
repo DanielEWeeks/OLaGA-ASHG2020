@@ -1,4 +1,2 @@
 theme: jekyll-theme-leap-day
-body {
-  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Helvetica,sans-serif;
-}
+font: "Helvetica Neue"
