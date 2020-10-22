@@ -12,6 +12,8 @@ Goals of the Research Group
 * To develop and rigorously test novel intervention approaches targeted at early life prevention of obesity and associated cardiometabolic disease
 * To enhance community partnerships for local and regional capacity building
 
+**Genetics Research**
+
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institution Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
 
 **‘Aiseā mātou te su‘esu‘eina ai kenera?**
