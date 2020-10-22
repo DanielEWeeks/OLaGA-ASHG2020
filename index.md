@@ -14,6 +14,14 @@ Goals of the Research Group
 
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institution Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
 
+‘Aiseá mātou te su’esu’eina ai kenera?
+
+‘O le su‘esu‘ega o kenera pé mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o látou uiga. I a mátou su‘esu‘ega, ‘o lo‘o mátou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pé ‘aiseá e máfua ai ona tino puta isi tagata ‘ae lé maua ai isi. ‘O le soifuaga málólóina e táua tele i le puipuiga ‘o le tino puta, peita‘i o kenera e fesoasoani tele lea i lo mátou málamalama pé ‘aiseá e tino puta ai isi tagata.
+
+Why are we studying genetics?
+
+Genetic studies test whether the genes of a group of people can explain differences in their characteristics. In our study, we are looking for genetic changes that can explain why some people are obese and others not. Healthy lifestyles are very important to preventing obesity, but genetics and also help us understand why some people become obese.
+
 Our hope is that this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
 * Translation of improved understanding of the underlying biology into interventions;
 * The identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
