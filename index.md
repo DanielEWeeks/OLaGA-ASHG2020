@@ -83,7 +83,7 @@ Contact: Zeynep Erdogan-Yildirim via [Twitter](https://twitter.com/ZeynepEYildir
  
 ---
 
-## Telomere Length · Poster 3845
+## Telomeres · Poster 3845
 
 **Genome-wide association study of telomere length in individuals of Samoan ancestry**
 
