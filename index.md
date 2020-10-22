@@ -18,7 +18,7 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 * Translation of improved understanding of the underlying biology into interventions;
 * The identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
 * Building research capacity within Samoan communities; and
-* Outreach to, education and empowerment of and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
+* Outreach to, education and empowerment of, and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
 
 **Additional Information**
 
