@@ -8,6 +8,8 @@
 
 [Selected Publications from our group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
 
+For more information about our team, our research and our community engagement, you are welcome to contact us at olaga@pitt.edu.
+
 ---
 
 ## Poster 2534
