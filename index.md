@@ -32,6 +32,12 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at olaga@pitt.edu.
 
+![alt text here](Unknown.jpeg)
+
+(L to R, back row) · Dr Erin Kershaw, Mr Jerry Zhang, Dr Mohan Krishnan, Dr Nicola Hawley, Dr Stephen McGarvey, Mr Haoyi Fu, Dr Samantha Rosenthal, Dr Zsolt Urban, Dr Zeynep Erdoğan-Yıldırım, Dr Daniel Weeks
+
+(L to R, front row) · Dr Ryan Minster, Dr Emily Russell, Dr Jenna Carlson, Dr Anna Rivara
+
 ---
 
 ## Poster 2534
