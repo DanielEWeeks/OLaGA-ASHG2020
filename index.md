@@ -15,10 +15,10 @@ Goals of the Research Group
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institution Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
 
 Our hope is that this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
-* translation of improved understanding of the underlying biology into interventions;
-* the identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
-* research capacity building within Samoan communities; and
-* outreach, education, empowerment and collaboration with the communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
+* Translation of improved understanding of the underlying biology into interventions;
+* The identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
+* Building research capacity within Samoan communities; and
+* Outreach to, education and empowerment of and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
 
 **Additional Information**
 
