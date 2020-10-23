@@ -2,9 +2,7 @@
 
 ---
 
-## Ōlaga
-
-#### In Sāmoan, *ōlaga* (pronounced /ˈoːlaŋa/) means *life*.
+**In Sāmoan, *ōlaga* (pronounced /ˈoːlaŋa/) means *life*.**
 
 The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course approach to understand the origins of obesity among Samoans and other Pacific Islanders and focuses on developing culturally relevant interventions to reduce the burden of obesity and obesity-related conditions.
 
