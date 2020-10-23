@@ -1,62 +1,62 @@
 # Current Research Team Members
 
-* Daniel E. Weeks, PhD<br>
+* **Daniel E. Weeks, PhD**<br>
     *Professor of Human Genetics and Biostatistics*
  
-* Erin E. Kershaw, MD<br>
+* **Erin E. Kershaw, MD**<br>
     *Associate Professor of Medicine*<br>
     *Endowed Chair for Obesity and Diabetes Research*<br>
     *Chief, Division of Endocrinology and Metabolism*
  
-* Zsolt Urban, PhD<br>
+* **Zsolt Urban, PhD**<br>
     *Associate Professor of Human Genetics*
  
-* Ryan L. Minster, PhD, MSIS<br>
+* **Ryan L. Minster, PhD, MSIS**<br>
     *Assistant Professor of Human Genetics*
  
-* Jenna C. Carlson, PhD<br>
+* **Jenna C. Carlson, PhD**<br>
     *Assistant Professor of Biostatistics and Human Genetics*
  
-* Samantha L. Rosenthal, PhD<br>
+* **Samantha L. Rosenthal, PhD**<br>
     *Assistant Professor of Oral Biology*
  
-* Emily M. Russell, PhD<br>
+* **Emily M. Russell, PhD**<br>
     *Postdoctoral Associate, Human Genetics*
  
-* Mohanraj Krishnan, PhD<br>
+* **Mohanraj Krishnan, PhD**<br>
     *Postdoctoral Associate, Human Genetics*
  
-* Zeynep Erdoğan-Yıldırım, MS<br>
+* **Zeynep Erdoğan-Yıldırım, MS**<br>
     *PhD Graduate Student, Human Genetics*
  
-* Haoyi Fu<br>
+* **Haoyi Fu**<br>
     *PhD Graduate Student, Biostatistics*
  
-* Chen‘ao Chen<br>
+* **Chen‘ao Chen**<br>
     *MS Graduate Student, Biostatistics*
  
-* Shuwei Liu<br>
+* **Shuwei Liu**<br>
     *PhD (?) Graduate Student, Human Genetics*
  
-* Stephanie Mercurio<br>
+* **Stephanie Mercurio**<br>
     *MS Graduate Student, Human Genetics*
  
-* Amber Olander<br>
+* **Amber Olander**<br>
     *MPH Graduate Student, Human Genetics*
  
-* Frank Swann IV<br>
+* **Frank Swann IV**<br>
     *MPH/MS in Genetic Counseling Graduate Student, Human Genetics*
  
-* Ramya Saravanan<br>
+* **Ramya Saravanan**<br>
     *MPH Graduate Student, Human Genetics*
  
-* Brittany Pantoni<br>
+* **Brittany Pantoni**<br>
     *MPH Graduate Student, Human Genetics*
  
 # Research Team Alumni
  
-* Jerry Z. Zhang
+* **Jerry Z. Zhang**
  
-* Jessica C. Tiner, MPH
+* **Jessica C. Tiner, MPH**
  
-* Marilyn Ngo, MPH
+* **Marilyn Ngo, MPH**
