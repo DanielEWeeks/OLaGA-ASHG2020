@@ -30,7 +30,7 @@ Nestled in and contextualized by the interdisciplinary approach of the multi-ins
 
 <!-- Genetic studies test whether the genes of a group of people can explain differences in their characteristics. In our study, we are looking for genetic changes that can explain why some people are obese and others not. Healthy lifestyles are very important to preventing obesity, but genetics and also help us understand why some people become obese. -->
 
-Our hope is that this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
+Our hope is that ultimately this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
 
 * Translation of improved understanding of the underlying biology into interventions;
 
@@ -39,8 +39,6 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 * Building research capacity within Samoan communities; and
 
 * Outreach to, education and empowerment of, and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
-
-## Funded Projects
 
 Projects currently funded by the National Institutes of Health:
 
