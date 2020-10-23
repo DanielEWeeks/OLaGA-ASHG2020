@@ -9,7 +9,9 @@ The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course a
 Goals of the Research Group
 
 * To conduct epidemiologic research that will serve as the evidence base for developing interventions to prevent obesity
+
 * To develop and rigorously test novel intervention approaches targeted at early life prevention of obesity and associated cardiometabolic disease
+
 * To enhance community partnerships for local and regional capacity building
 
 ## OLaGA @ Pitt
@@ -27,9 +29,13 @@ At the University of Pittsburgh Graduate School of Public Health and Schools of 
 <!-- Genetic studies test whether the genes of a group of people can explain differences in their characteristics. In our study, we are looking for genetic changes that can explain why some people are obese and others not. Healthy lifestyles are very important to preventing obesity, but genetics and also help us understand why some people become obese. -->
 
 Our hope is that this research will come to benefit the Samoan people in Samoa, American Samoa and worldwide through
+
 * Translation of improved understanding of the underlying biology into interventions;
+
 * The identification of population-specific genetic determinants and prevalences or gene–environment interactions that would inform precision public health efforts;
+
 * Building research capacity within Samoan communities; and
+
 * Outreach to, education and empowerment of, and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
 
 ## Funded Projects
