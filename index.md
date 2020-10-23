@@ -12,9 +12,11 @@ Goals of the Research Group
 * To develop and rigorously test novel intervention approaches targeted at early life prevention of obesity and associated cardiometabolic disease
 * To enhance community partnerships for local and regional capacity building
 
-### Genetics Research
+### OLaGA @ Pitt
 
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institutional Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
+
+[Current research team members and team alumni.](team.md)
 
 ### ‘Aiseā mātou te su‘esu‘eina ai kenera?
 
@@ -56,6 +58,12 @@ We would like to acknowledge and sincerely thank the Samoan government, particul
 
 We would especially like to thank the amazing research participants who have allowed us to work with them over these many years and the mayors and women’s committees (*komiti tūmama*) of the villages we’ve recruited research participants from for their interest and permission to conduct this work. 
 
+### Publications
+
+[Selected Publications from our Group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
+
+See selected publications from OLaGA in the *International Journal of Obesity*, *Nature Genetics*, the *American Journal of Human Biology*, the *Journal of Human Genetics* etc.
+
 ### Additional Information
 
 * [OLaGA @ Yale](https://publichealth.yale.edu/olaga/)
@@ -65,10 +73,6 @@ We would especially like to thank the amazing research participants who have all
 * [OLaGA on Facebook](https://www.facebook.com/YaleOlaga/)
 
     Visit the OLaGA Facebook page to aspects of our grassroots outreach among the communities in Samoa and American Samoa.
-
-* [Selected Publications from our Group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
-
-    See selected publications from OLaGA in the *International Journal of Obesity*, *Nature Genetics*, the *American Journal of Human Biology*, the *Journal of Human Genetics* etc.
 
 For more information about our team, our research and our community engagement, you are welcome to contact us at [olaga@pitt.edu](mailto:olaga@pitt.edu).
 
@@ -82,6 +86,8 @@ For more information about our team, our research and our community engagement, 
 ---
 
 # ASHG 2020 Posters
+
+---
 
 ## Blood Pressure · Poster 2534
 
