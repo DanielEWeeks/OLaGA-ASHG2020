@@ -2,7 +2,9 @@
 
 ---
 
-<b>In Sāmoan, *ōlaga* (pronounced /ˈoːlaŋa/) means *life*.</b>
+## Ōlaga
+
+#### In Sāmoan, *ōlaga* (pronounced /ˈoːlaŋa/) means *life*.
 
 The Obesity, Lifestyle, And Genetic Adaptations Study Group uses a life course approach to understand the origins of obesity among Samoans and other Pacific Islanders and focuses on developing culturally relevant interventions to reduce the burden of obesity and obesity-related conditions.
 
@@ -12,13 +14,13 @@ Goals of the Research Group
 * To develop and rigorously test novel intervention approaches targeted at early life prevention of obesity and associated cardiometabolic disease
 * To enhance community partnerships for local and regional capacity building
 
-### OLaGA @ Pitt
+## OLaGA @ Pitt
 
 At the University of Pittsburgh Graduate School of Public Health and Schools of Medicine and Dental Medicine, our team of genetic epidemiologists, statistical geneticists, public health geneticists, biostatisticians and molecular biologists collaborates with researchers at Yale University, Brown University, the University of Cincinnati, the National University of Samoa, the Samoan Ministry of Health, and the non-profit Lutia i Puava ‘ae Mapu i Fagalele. Nestled in and contextualized by the interdisciplinary approach of the multi-institutional Study Group, our team seeks to understand the genetic determinants of obesity and concomitant cardiometabolic disease among Samoans and the interactions of those genetic factors with environmental, behaviorial and social determinants of health.
 
 [Current research team members and team alumni.](team.md)
 
-### ‘Aiseā mātou te su‘esu‘eina ai kenera?
+## ‘Aiseā mātou te su‘esu‘eina ai kenera?
 
 ‘O le su‘esu‘ega o kenera pē mafai e kenera o tagata ona fa‘amatala le ‘ese‘esega i o lātou uiga. I a mātou su‘esu‘ega, ‘o lo‘o mātou va‘ava‘ai ai i le suiga o kenera e mafai ai ona fa‘amatala pē ‘aiseā e māfua ai ona tino puta isi tagata ‘ae lē maua ai isi. ‘O le soifuaga mālōlōina e tāua tele i le puipuiga ‘o le tino puta, peita‘i ‘o kenera e fesoasoani tele lea i lo mātou mālamalama pē ‘aiseā e tino puta ai isi tagata.
 
@@ -32,7 +34,7 @@ Our hope is that this research will come to benefit the Samoan people in Samoa, 
 * Building research capacity within Samoan communities; and
 * Outreach to, education and empowerment of, and collaboration with Samoan communities about the ethical, legal and social implications of genetic research, genetic testing and genetics-informed interventions.
 
-### Funded Projects
+## Funded Projects
 
 Projects currently funded by the National Institutes of Health:
 
@@ -52,19 +54,19 @@ Projects currently funded by the National Institutes of Health:
 
     NHLBI · [R01HL140570](https://projectreporter.nih.gov/project_info_description.cfm?aid=9859453)
 
-### Gratitude
+## Gratitude
 
 We would like to acknowledge and sincerely thank the Samoan government, particularly the Ministry of Health; the Ministry of Women, Community, and Social Development; the Office of the Prime Minister; and the Samoa Bureau of Statistics for their continued support of this work.
 
 We would especially like to thank the amazing research participants who have allowed us to work with them over these many years and the mayors and women’s committees (*komiti tūmama*) of the villages we’ve recruited research participants from for their interest and permission to conduct this work. 
 
-### Publications
+## Publications
 
 [Selected Publications from our Group](https://danieleweeks.github.io/OLaGA-ASHG2020/pubs)
 
 See selected publications from OLaGA in the *International Journal of Obesity*, *Nature Genetics*, the *American Journal of Human Biology*, the *Journal of Human Genetics* etc.
 
-### Additional Information
+## Additional Information
 
 * [OLaGA @ Yale](https://publichealth.yale.edu/olaga/)
 
