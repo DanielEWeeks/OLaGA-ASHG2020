@@ -121,7 +121,7 @@ Contact: Ryan Minster via [Twitter](https://twitter.com/pittjryan) @pittjryan #O
 
 [Link to ASHG abstract](https://www.abstractsonline.com/pp8/index.html#!/9070/presentation/3066)
 
-Contact: Zeynep Erdogan-Yildirim via [Twitter](https://twitter.com/ZeynepEYildirim) @ZeynepEYildirim #OLaGA #ASHG2020
+Contact: Zeynep Erdoğan-Yıldırım via [Twitter](https://twitter.com/ZeynepEYildirim) @ZeynepEYildirim #OLaGA #ASHG2020
  
 ---
 
